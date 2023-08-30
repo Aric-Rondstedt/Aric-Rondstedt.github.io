@@ -55,18 +55,15 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-disqus_username: aric
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 6ea35b7834b61f2fab5b                            #生成的clientID
+  clientSecret: 8d498ab4479d2463ce97bb55ee9eec3cf402f9b2    #生成的clientSecret
+  repo: Aric-Rondstedt.github.io    #仓库名称
+  owner: Aric-Rondstedt    #github用户名
+  admin: Aric-Rondstedt
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
