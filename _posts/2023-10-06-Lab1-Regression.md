@@ -132,7 +132,7 @@ print(f"F1 Score: {f1:.4f}")
 print(f"ROC AUC: {roc_auc:.4f}")
 ```
 
-![截图20231006003611](post-img/截图20231006003611.png)
+![截图20231006003611](https://github.com/Aric-Rondstedt/Aric-Rondstedt.github.io/blob/master/post-img/%E6%88%AA%E5%9B%BE20231006003611.png)
 
 ## Plot the results
 
