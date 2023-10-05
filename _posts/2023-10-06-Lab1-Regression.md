@@ -149,7 +149,7 @@ plt.legend(loc="lower right")
 plt.show()
 ```
 
-![截图20231006003635](post-img/截图20231006003635.png)
+![截图20231006003635](https://github.com/Aric-Rondstedt/Aric-Rondstedt.github.io/blob/master/post-img/%E6%88%AA%E5%9B%BE20231006003635.png)
 
 ## Review & Optimize
 
