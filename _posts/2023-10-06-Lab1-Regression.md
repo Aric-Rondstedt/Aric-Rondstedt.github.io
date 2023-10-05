@@ -12,6 +12,8 @@ tags:
 
 # Lab 1: Regression
 
+> The homework about Regression
+
 ## Dataset introduction
 
 乳腺癌数据集
