@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab One Regression
+title:      Lab 1: Regression
 subtitle:   The homework about Regression
 date:       2023-10-05
 author:     世维
