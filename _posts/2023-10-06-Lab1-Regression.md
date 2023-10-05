@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab 1: Regression
+title:      Lab 1  Regression
 subtitle:   study Regression
 date:       2023-10-6
 author:     世维
