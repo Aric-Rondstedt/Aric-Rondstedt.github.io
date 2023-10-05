@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab 1  Regression
+title:      Lab 1 Regression
 subtitle:   study Regression
 date:       2023-10-06
 author:     世维
@@ -9,7 +9,6 @@ catalog: true
 tags:
     - machine learning
 ---
-
 # Lab 1: Regression
 
 > The homework about Regression
