@@ -133,7 +133,7 @@ print(f"F1 Score: {f1:.4f}")
 print(f"ROC AUC: {roc_auc:.4f}")
 ```
 
-![截图20231006003611](C:\Users\Aric-Rondstedt\Desktop\截图20231006003611.png)
+![截图20231006003611](post-img/截图20231006003611.png)
 
 ## Plot the results
 
@@ -150,7 +150,7 @@ plt.legend(loc="lower right")
 plt.show()
 ```
 
-![截图20231006003635](C:\Users\Aric-Rondstedt\Desktop\截图20231006003635.png)
+![截图20231006003635](post-img/截图20231006003635.png)
 
 ## Review & Optimize
 
