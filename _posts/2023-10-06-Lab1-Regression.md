@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Lab 1 Regression
-subtitle:   study Regression
+subtitle:   The homework about Regression
 date:       2023-10-06
 author:     世维
 header-img: img/post-bg-ios9-web.jpg
