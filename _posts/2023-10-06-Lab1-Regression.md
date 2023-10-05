@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Lab 1 Regression
+title:      Lab One Regression
 subtitle:   The homework about Regression
-date:       2023-10-06
+date:       2023-10-05
 author:     世维
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - machine learning
+    - ML
 ---
 # Lab 1: Regression
 
