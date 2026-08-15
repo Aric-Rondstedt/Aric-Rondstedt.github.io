@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Chapter 1: Introduction to TCP/IP Networking
+title:      Chapter 1 Introduction to TCP/IP Networking
 subtitle:   Reading Notes(CCNA 200-301 Vol.1, Chapter 1)
 date:       2026-8-15
 author:     世维
