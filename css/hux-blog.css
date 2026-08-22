@@ -1089,3 +1089,9 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover {
   color: #ddd;
 }
+.mermaid {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 0; /* 上下间距，可根据喜好调整 */
+}
