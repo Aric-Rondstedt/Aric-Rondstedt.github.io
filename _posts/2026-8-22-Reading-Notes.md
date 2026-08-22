@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Chapter 3 Fundamentals of WANs and IP Routing
-subtitle:   Reading Notes(CCNA 200-301 Vol.1, Chapter 2)
-date:       2026-8-16
+subtitle:   Reading Notes(CCNA 200-301 Vol.1, Chapter 3)
+date:       2026-8-22
 author:     世维
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
