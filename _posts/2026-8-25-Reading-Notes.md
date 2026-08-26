@@ -172,20 +172,20 @@ Below is a Mermaid diagram that illustrates the core logic of a switch:
 
 ```mermaid
 graph TD
-    A[Frame arrives on port] --> B{Read Destination MAC}
-    B -->|Broadcast / Multicast| C[Flood out all ports except incoming]
-    B -->|Unicast| D{Look up in MAC table}
-    D -->|Not found| C
-    D -->|Found| E{Is outgoing port same as incoming?}
-    E -->|Yes| F[Filter (drop)]
-    E -->|No| G[Forward out that port]
+    A["Frame arrives on port"] --> B{"Read Destination MAC"}
+    B -->|"Broadcast / Multicast"| C["Flood out all ports except incoming"]
+    B -->|"Unicast"| D{"Look up in MAC table"}
+    D -->|"Not found"| C
+    D -->|"Found"| E{"Is outgoing port same as incoming?"}
+    E -->|"Yes"| F["Filter (drop)"]
+    E -->|"No"| G["Forward out that port"]
 
-    A --> H[Read Source MAC]
-    H --> I{Is source MAC in table?}
-    I -->|No| J[Add entry (MAC, incoming port)]
-    I -->|Yes| K{Is port different?}
-    K -->|Yes| L[Update entry with new port]
-    K -->|No| M[No change]
+    A --> H["Read Source MAC"]
+    H --> I{"Is source MAC in table?"}
+    I -->|"No"| J["Add entry (MAC, incoming port)"]
+    I -->|"Yes"| K{"Is port different?"}
+    K -->|"Yes"| L["Update entry with new port"]
+    K -->|"No"| M["No change"]
 
     subgraph Learning
         H
