@@ -187,7 +187,7 @@ graph TD
     K -->|Yes| L[Update entry with new port]
     K -->|No| M[No change]
 
-    subgraph "Learning"
+    subgraph Learning
         H
         I
         J
@@ -196,7 +196,7 @@ graph TD
         M
     end
 
-    subgraph "Forwarding / Filtering"
+    subgraph Forwarding_Filtering
         B
         D
         E
